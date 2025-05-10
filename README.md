@@ -1,12 +1,12 @@
 # pod
-UNVT Portable Option D: Free web maps are portable.
+UNVT Portable Option D: Free maps are portable.
 
 ## What is UNVT POD?
-The UNVT POD is a comprehensive setup, including hardware, designed to deploy a Caddy-based web map server on a LAN with limited internet bandwidth. This involves installing Raspberry Pi OS on a USB SSD and configuring Martin and Caddy on it.
+The UNVT POD is a setup that includes hardware to deploy a Caddy-based web map server on a LAN with limited internet. It uses Raspberry Pi OS installed on a USB SSD and configures Martin and Caddy.
 
-## Free web maps are portable
+## Free maps are portable
 
-The concept of "Free web maps are portable" emphasizes the ability to use web maps in environments with limited or no internet connectivity. By leveraging lightweight hardware like Raspberry Pi and software such as Caddy, users can create a portable web map server. This server can be deployed on a local network, making it accessible without relying on external internet resources. This approach is particularly useful for remote areas, disaster response, and educational purposes, where reliable internet access may not be available.
+"Free maps are portable" means web maps can work in places with little or no internet. Using devices like Raspberry Pi and software like Caddy, you can create a portable web map server. This server works on a local network, so it does not need the internet. It is helpful in remote areas, disaster response, and education where internet access is limited.
 
 ## See Also
 https://github.com/UNopenGIS/7/issues/680
